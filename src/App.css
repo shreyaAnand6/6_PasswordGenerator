@@ -1,0 +1,13 @@
+.container{
+  background: rgb(62, 62, 83);
+  padding: 40px;
+  border-radius: 5%;
+}
+.passwordBox{
+  width: 300px;
+  border-radius: 5%;
+}
+.copyBttn{
+  background-color: rgb(178, 178, 215);
+  border-radius: 12%;
+}
