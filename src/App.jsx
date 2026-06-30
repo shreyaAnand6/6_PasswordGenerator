@@ -46,11 +46,11 @@ function App() {
 
     <input type="range" min={8} max={50} 
     onChange={(e)=>{setLen(e.target.value)}}/>
-    <label>Length: {len}</label>
+    <label>Length: {len} </label>
 
     <input type="checkbox" 
     onChange={(e)=>setAllowNum(e.target.checked)}/>
-    <label>Numbers</label>
+    <label>Numbers </label>
 
     <input type="checkbox"
     onChange={(e)=>setAllowChar(e.target.checked)}/>

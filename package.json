@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shreyaAnand6.github.io/6_PasswordGenerator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
